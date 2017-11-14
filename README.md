@@ -1,4 +1,4 @@
-The Pig Game - JavaScript DOM manipulation exercise (the part of JS course)
+The Pig Game - JavaScript DOM manipulation project
 
 ===================================================
 
